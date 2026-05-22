@@ -179,8 +179,7 @@ async listar() {
 
 ## 👥 Equipe
 
-- **Letícia Carvalho** — Arquitetura de Banco de Dados (MySQL) e Módulo de Locação
-- **Lucas Viana da Silva** — Scripts PHP e Configuração de Ambiente / Infraestrutura
-- **Rafael da Silva Rabelo** — Front-end e Formulários HTML/Bootstrap
-- **Aryane Cassimiro Machado** — Listagem e Exclusão (Backend PHP) / Front-end React
-# Projeto_Desenvolvimento_Software
+- **Letícia Carvalho** 
+- **Lucas Viana da Silva**
+- **Rafael da Silva Rabelo**
+- **Aryane Cassimiro Machado**
